@@ -1,5 +1,5 @@
 # recipe-web-app Repo
-## First repo to begin our app development for a recipe web application.
+First repo to begin our app development for a recipe web application.
 
 ## First Action Items
 1. Agree on the stack to be used
