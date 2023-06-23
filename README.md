@@ -10,4 +10,4 @@ First repo to begin our app development for a recipe web application.
 6. Wireframing
 7. Start building :) 
 
-Please go to the discussions tab for more info and collaboration.
+Please go to the discussions tab for more info and collaboration
